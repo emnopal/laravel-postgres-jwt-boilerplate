@@ -8,3 +8,4 @@ todo:
 1. convert to laravel lumen
 2. add redis
 3. add unittest
+4. dockerizing it
